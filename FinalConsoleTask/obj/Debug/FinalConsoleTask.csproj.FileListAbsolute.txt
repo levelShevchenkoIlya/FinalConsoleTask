@@ -1,0 +1,9 @@
+c:\users\пользователь\source\repos\FinalConsoleTask\FinalConsoleTask\bin\Debug\FinalConsoleTask.exe.config
+c:\users\пользователь\source\repos\FinalConsoleTask\FinalConsoleTask\bin\Debug\FinalConsoleTask.exe
+c:\users\пользователь\source\repos\FinalConsoleTask\FinalConsoleTask\bin\Debug\FinalConsoleTask.pdb
+c:\users\пользователь\source\repos\FinalConsoleTask\FinalConsoleTask\bin\Debug\SystemFileReader.dll
+c:\users\пользователь\source\repos\FinalConsoleTask\FinalConsoleTask\bin\Debug\SystemFileReader.pdb
+c:\users\пользователь\source\repos\FinalConsoleTask\FinalConsoleTask\obj\Debug\FinalConsoleTask.csprojResolveAssemblyReference.cache
+c:\users\пользователь\source\repos\FinalConsoleTask\FinalConsoleTask\obj\Debug\FinalConsoleTask.csproj.CoreCompileInputs.cache
+c:\users\пользователь\source\repos\FinalConsoleTask\FinalConsoleTask\obj\Debug\FinalConsoleTask.exe
+c:\users\пользователь\source\repos\FinalConsoleTask\FinalConsoleTask\obj\Debug\FinalConsoleTask.pdb

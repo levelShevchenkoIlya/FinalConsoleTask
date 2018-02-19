@@ -1,0 +1,6 @@
+c:\users\пользователь\source\repos\FinalConsoleTask\SystemFileReader\bin\Debug\SystemFileReader.dll
+c:\users\пользователь\source\repos\FinalConsoleTask\SystemFileReader\bin\Debug\SystemFileReader.pdb
+c:\users\пользователь\source\repos\FinalConsoleTask\SystemFileReader\obj\Debug\SystemFileReader.csprojResolveAssemblyReference.cache
+c:\users\пользователь\source\repos\FinalConsoleTask\SystemFileReader\obj\Debug\SystemFileReader.csproj.CoreCompileInputs.cache
+c:\users\пользователь\source\repos\FinalConsoleTask\SystemFileReader\obj\Debug\SystemFileReader.dll
+c:\users\пользователь\source\repos\FinalConsoleTask\SystemFileReader\obj\Debug\SystemFileReader.pdb
